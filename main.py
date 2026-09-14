@@ -1,5 +1,3 @@
-from unittest import case
-
 from functions import add_book, view_books, borrow_book, return_book, update_book, delete_book, search_book 
 from data_storage import load_lib, save_lib
 import logging
