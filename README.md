@@ -4,23 +4,23 @@ A CLI Python-based Library Management System that allows users to manage books, 
 
 Features
 
-* Add new books
-* View all books
-* Search books by:
+- Add new books
+- View all books
+- Search books by:
     - Title
     - Author
     - Genre
-* Borrow books
-* Return books
-* Update book information
-* Delete books
-* Prevent duplicate books
-* Store library data in a JSON file
-* Log important program events
+- Borrow books
+- Return books
+- Update book information
+- Delete books
+- Prevent duplicate books
+- Store library data in a JSON file
+- Log important program events
 
 Project Structure
 
-library-management
+library-management:
 -- cbook.py
 -- functions.py
 -- data_storage.py
@@ -49,31 +49,31 @@ Stores the library data so that books remain available after the program is clos
 The program will display a menu where you can choose the operation you want to perform.
 
 Technologies Used:
-* Python
-* Object-Oriented Programming (OOP)
-* JSON
-* Python Logging
-* Git & GitHub
+- Python
+- Object-Oriented Programming (OOP)
+- JSON
+- Python Logging
+- Git & GitHub
 
 
 What I Practiced:
 
 This project helped me practice:
-* Classes and objects
-* Functions and modules
-* Dictionaries
-* Loops and conditionals
-* Exception handling
-* File handling
-* JSON serialization and deserialization
-* Logging
-* CRUD operations
-* Basic software project structure
+- Classes and objects
+- Functions and modules
+- Dictionaries
+- Loops and conditionals
+- Exception handling
+- File handling
+- JSON serialization and deserialization
+- Logging
+- CRUD operations
+- Basic software project structure
 
 
 Possible future improvements include:
-* Adding automated tests
-* Adding a graphical user interface
-* Improving input validation
-* Adding user accounts and authentication
-* Adding database support
+- Adding automated tests
+- Adding a graphical user interface
+- Improving input validation
+- Adding user accounts and authentication
+- Adding database support
