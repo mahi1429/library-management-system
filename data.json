@@ -1,0 +1,44 @@
+{
+    "1": {
+        "title": "Harry Potter",
+        "author": "J.K. Rowling",
+        "year": "1998",
+        "genre": "Fantasy",
+        "available": "borrowed"
+    },
+    "2": {
+        "title": "1984",
+        "author": "George Orwell",
+        "year": "1949",
+        "genre": "Dystopian",
+        "available": "available"
+    },
+    "3": {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "year": "1813",
+        "genre": "Romance",
+        "available": "available"
+    },
+    "4": {
+        "title": "to kill a mockingbird",
+        "author": "harper lee",
+        "year": "1960",
+        "genre": "horror",
+        "available": "available"
+    },
+    "5": {
+        "title": "the hobbit",
+        "author": "J.R.R Tolkien",
+        "year": "1937",
+        "genre": "fantasy",
+        "available": "available"
+    },
+    "6": {
+        "title": "The Great gatsby",
+        "author": "Scott FitzGerald",
+        "year": "1925",
+        "genre": "Classic",
+        "available": "available"
+    }
+}
